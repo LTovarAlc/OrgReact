@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { v4 as uuid } from "uuid"
 import './App.css';
 import Header from "./components/Header/Header"
-import Formulario from './components/Formulario/Formulario';
+import Formulario from './components/Formulario/Formulario.js';
 import MiOrg from './components/MiOrg';
 import Equipo from './components/Equipo';
 import Footer from './components/Footer';
